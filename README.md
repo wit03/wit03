@@ -1,5 +1,5 @@
 ## Hi there 👋 , I'm Wit
-An ordinary 17 years old full-stack developer, keyboard enthusiastist and Machine Learner.
+Full-Stack Developer, Keyboard Enthusiastist and Machine Learner.
 
 ### Currently into 🔭
 - Web technologies
